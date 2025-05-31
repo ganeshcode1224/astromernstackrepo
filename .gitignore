@@ -1,0 +1,11 @@
+# Ignore backend environment variables file
+backend/.env
+
+# Ignore node_modules folders anywhere in project
+node_modules/
+
+# Ignore build/dist folders (if any)
+dist/
+
+# Ignore any local env files (optional)
+.env.local
